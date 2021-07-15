@@ -10,7 +10,7 @@ Resources
 * react-native-sound-player
 ```
 
-## Socket persist connection
+## Apply Socket Globally
 ```
 Resources
 * socket.io-client
